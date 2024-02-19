@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Garage Car Sale Website Description
+# Welcome to our <strong>Garage Car Sale!🚗</strong>
+
+<strong>What We Offer:</strong>
+Quality Used Cars: Browse through our selection of well-maintained, pre-loved vehicles.
+Affordable Prices: Get great deals on reliable cars without breaking the bank.
+Friendly Service: Our team is here to assist you in finding the perfect car for your needs.
+Test Drives: Schedule a test drive to experience the vehicle firsthand.
+Transparent Information: We provide accurate details about each car’s make, model, mileage, and condition.
+Visit Us:
+Location: [Your Garage Address]
+Date and Time: [Sale Dates and Hours]
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
