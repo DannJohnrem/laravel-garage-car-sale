@@ -8,15 +8,17 @@
 </p>
 
 ## Garage Car Sale Website Description
-# Welcome to our <strong>Garage Car Sale!🚗</strong>
+#### Welcome to our **Garage Car Sale!🚗**
 
-<strong>What We Offer:</strong>
-Quality Used Cars: Browse through our selection of well-maintained, pre-loved vehicles.
-Affordable Prices: Get great deals on reliable cars without breaking the bank.
-Friendly Service: Our team is here to assist you in finding the perfect car for your needs.
-Test Drives: Schedule a test drive to experience the vehicle firsthand.
-Transparent Information: We provide accurate details about each car’s make, model, mileage, and condition.
-Visit Us:
+**What We Offer:**
+<ul>
+    <li>**Quality Used Cars:** Browse through our selection of well-maintained, pre-loved vehicles.</li>
+    <li>**Affordable Prices:** Get great deals on reliable cars without breaking the bank.</li>
+    <li>**Friendly Service:** Our team is here to assist you in finding the perfect car for your needs.</li>
+    <li>**Test Drives:** Schedule a test drive to experience the vehicle firsthand.</li>
+    <li>**Transparent Information:** We provide accurate details about each car’s make, model, mileage, and condition.</li>
+</ul>
+**Visit Us:**
 Location: [Your Garage Address]
 Date and Time: [Sale Dates and Hours]
 
