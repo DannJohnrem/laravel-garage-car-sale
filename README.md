@@ -8,19 +8,19 @@
 </p>
 
 ## Garage Car Sale Website Description
-#### Welcome to our **Garage Car Sale!🚗**
+#### Welcome to our <strong>Garage Car Sale!🚗</strong>
 
-**What We Offer:**
+<strong>What We Offer:</strong>
 <ul>
-    <li>**Quality Used Cars:** Browse through our selection of well-maintained, pre-loved vehicles.</li>
-    <li>**Affordable Prices:** Get great deals on reliable cars without breaking the bank.</li>
-    <li>**Friendly Service:** Our team is here to assist you in finding the perfect car for your needs.</li>
-    <li>**Test Drives:** Schedule a test drive to experience the vehicle firsthand.</li>
-    <li>**Transparent Information:** We provide accurate details about each car’s make, model, mileage, and condition.</li>
+    <li><strong>Quality Used Cars:</strong> Browse through our selection of well-maintained, pre-loved vehicles.</li>
+    <li><strong>Affordable Prices:</strong> Get great deals on reliable cars without breaking the bank.</li>
+    <li><strong>Friendly Service:</strong> Our team is here to assist you in finding the perfect car for your needs.</li>
+    <li><strong>Test Drives:</strong> Schedule a test drive to experience the vehicle firsthand.</li>
+    <li><strong>Transparent Information:</strong> We provide accurate details about each car’s make, model, mileage, and condition.</li>
 </ul>
-**Visit Us:**
-Location: [Your Garage Address]
-Date and Time: [Sale Dates and Hours]
+<strong>Visit Us:</strong>
+Location: N/A
+Date and Time: N/A
 
 ## About Laravel
 
